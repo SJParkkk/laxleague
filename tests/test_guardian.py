@@ -1,4 +1,4 @@
-from laxleague.guardian import Guardian
+from src.laxleague.guardian import Guardian
 
 
 def test_construction():
